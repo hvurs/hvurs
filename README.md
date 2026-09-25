@@ -1,4 +1,7 @@
-## Hi there 👋
+### Hello! I'm hvurs 🐕
+![status](https://api.statusbadges.me/badge/status/817410231088578610)
+![playing](https://api.statusbadges.me/badge/playing/817410231088578610)
+![vscode](https://api.statusbadges.me/badge/vscode/817410231088578610)
 
 <!--
 **hvurs/hvurs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
